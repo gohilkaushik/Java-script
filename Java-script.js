@@ -1,3 +1,4 @@
+// hamburgerbtn code and a img src change width canditaion
 const hamburgerBtn = document.querySelector(".hamburger-btn");
 
 hamburgerBtn.onclick = () => {
